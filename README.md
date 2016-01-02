@@ -1,5 +1,10 @@
-# monokai-ex-syntax theme
+# Monokai Extended Dark theme
 
-A short description of your theme.
+A dark monokai syntax theme for [Atom](http://atom.io/).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Based on [monokai dark](https://github.com/james2doyle/atom-monokai-dark) with some changes:
+- Line numbers grayed and with more padding
+- Transparent scroll bars
+- Block comments in different color than regular comments
+
+![](https://raw.githubusercontent.com/mileusna/atom-monokai-extended-dark/master/screenshot.png)
