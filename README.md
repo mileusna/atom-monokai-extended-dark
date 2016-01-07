@@ -2,6 +2,8 @@
 
 A dark monokai syntax theme for [Atom](http://atom.io/).
 
+![](https://atom.io/themes/monokai-ex-dark-syntax)
+
 Based on [monokai dark](https://github.com/james2doyle/atom-monokai-dark) with some changes:
 - Line numbers grayed and with more padding
 - Transparent scroll bars
